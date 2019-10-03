@@ -42,7 +42,7 @@
 div#header, header
     {
     /* Put border on bottom. Separates it from TOC or body that comes after it. */
-    border-bottom: 1px solid #aaa;
+    border-bottom: 1px solid #fff;
     margin-bottom: 0.5em;
     }
 
